@@ -6,7 +6,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <!-- 插件pom：https://github.com/jenkinsci/plugin-pom -->
-        <version>6.2189.v695a_c41f5249</version>
+        <version>6.2211.v27f680c93c53</version>
         <relativePath/>
     </parent>
     <groupId>io.jenkins.plugins</groupId>
